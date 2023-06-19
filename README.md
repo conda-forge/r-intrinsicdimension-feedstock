@@ -1,11 +1,11 @@
-About r-intrinsicdimension
-==========================
+About r-intrinsicdimension-feedstock
+====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-intrinsicdimension-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=intrinsicDimension
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-intrinsicdimension-feedstock/blob/main/LICENSE.txt)
 
 Summary: A variety of methods for estimating intrinsic dimension of data sets (i.e the manifold or Hausdorff dimension of the support of the distribution that generated the data) as reviewed in Johnsson, K. (2016, ISBN:978-91-7623-921-6) and Johnsson, K., Soneson, C. and Fontes, M. (2015) <doi:10.1109/TPAMI.2014.2343220>. Furthermore, to evaluate the performance of these estimators, functions for generating data sets with given intrinsic dimensions are provided.
 
